@@ -1,0 +1,7 @@
+{
+  "name": "Gram Kalyan - Villager Scheme Portal",
+  "description": "An intuitive platform designed for villagers to discover relevant government welfare schemes based on their profile (age, income, gender, etc.) using AI-powered matching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
